@@ -1,0 +1,15 @@
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/bin/Debug/net8.0/BookStore.Core.deps.json
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/bin/Debug/net8.0/BookStore.Core.runtimeconfig.json
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/bin/Debug/net8.0/BookStore.Core.dll
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/bin/Debug/net8.0/BookStore.Core.pdb
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.csproj.AssemblyReference.cache
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.AssemblyInfoInputs.cache
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.AssemblyInfo.cs
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.csproj.CoreCompileInputs.cache
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.sourcelink.json
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.dll
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/refint/BookStore.Core.dll
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.pdb
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/BookStore.Core.genruntimeconfig.cache
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Core/obj/Debug/net8.0/ref/BookStore.Core.dll
