@@ -1,0 +1,16 @@
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/bin/Debug/net8.0/BookStore.Application.deps.json
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/bin/Debug/net8.0/BookStore.Application.dll
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/bin/Debug/net8.0/BookStore.Application.pdb
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/bin/Debug/net8.0/BookStore.Core.dll
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/bin/Debug/net8.0/BookStore.Core.pdb
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.csproj.AssemblyReference.cache
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.AssemblyInfoInputs.cache
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.AssemblyInfo.cs
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.csproj.CoreCompileInputs.cache
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.sourcelink.json
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.csproj.CopyComplete
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.dll
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/refint/BookStore.Application.dll
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/BookStore.Application.pdb
+/Users/vlad/RiderProjects/WebAppCRUD/BookStore.Application/obj/Debug/net8.0/ref/BookStore.Application.dll

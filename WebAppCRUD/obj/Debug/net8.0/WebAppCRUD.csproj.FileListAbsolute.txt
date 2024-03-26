@@ -108,3 +108,5 @@
 /Users/vlad/RiderProjects/WebAppCRUD/WebAppCRUD/bin/Debug/net8.0/BookStore.DataAccess.dll
 /Users/vlad/RiderProjects/WebAppCRUD/WebAppCRUD/bin/Debug/net8.0/BookStore.DataAccess.pdb
 /Users/vlad/RiderProjects/WebAppCRUD/WebAppCRUD/bin/Debug/net8.0/BookStore.Core.pdb
+/Users/vlad/RiderProjects/WebAppCRUD/WebAppCRUD/bin/Debug/net8.0/BookStore.Application.dll
+/Users/vlad/RiderProjects/WebAppCRUD/WebAppCRUD/bin/Debug/net8.0/BookStore.Application.pdb
